@@ -64,12 +64,5 @@
 			"ciudad": "Buenos Aires",
 			"provincia": "Buenos Aires"
 		}
-	],
-	"default": {
-		"calle": "Calle Falsa",
-		"altura": "123",
-		"ciudad": "Azul",
-		"provincia": "Buenos Aires",
-		"pais": "Argentina"
-	}
+	]
 }

@@ -1,77 +1,77 @@
 {
-  listPersonaA: [
+  "listPersonaA": [
     {
-      id: 1,
-      nombre: "Juan",
-      apellido: "Perez",
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Perez",
     },
     {
-      id: 2,
-      nombre: "Cosme",
-      apellido: "Fulanito",
-    },
-  ],
-  listPersonaB: [
-    {
-      id: 3,
-      nombre: "Juan",
-      apellido: "Perez",
-    },
-    {
-      id: 4,
-      nombre: "Jane",
-      apellido: "Doe",
+      "id": 2,
+      "nombre": "Cosme",
+      "apellido": "Fulanito",
     },
   ],
-  listaDireccionC: [
+  "listPersonaB": [
     {
-      personaId: "1",
-      calle: "Lavalle",
-      altura: "150",
-      ciudad: "Buenos Aires",
-      provincia: "Buenos Aires",
-      pais: "Argentina",
+      "id": 3,
+      "nombre": "Juan",
+      "apellido": "Perez",
     },
     {
-      personaId: "3",
-      calle: "Av. del Libertador",
-      altura: "13900",
-      ciudad: "Buenos Aires",
-      provincia: "Buenos Aires",
-      pais: "Argentina",
+      "id": 4,
+      "nombre": "Jane",
+      "apellido": "Doe",
     },
   ],
-  listaDireccionD: [
+  "listaDireccionC": [
     {
-      personaId: "2",
-      calle: "Peron",
-      altura: "1500",
-      ciudad: "Buenos Aires",
-      provincia: "Buenos Aires",
-      pais: "Argentina",
+      "personaId": "1",
+      "calle": "Lavalle",
+      "altura": "150",
+      "ciudad": "Buenos Aires",
+      "provincia": "Buenos Aires",
+      "pais": "Argentina",
+    },
+    {
+      "personaId": "3",
+      "calle": "Av. del Libertador",
+      "altura": "13900",
+      "ciudad": "Buenos Aires",
+      "provincia": "Buenos Aires",
+      "pais": "Argentina",
     },
   ],
-  listaCP: [
+  "listaDireccionD": [
     {
-      codigoPostal: "1047",
-      calle: "Lavalle",
-      ciudad: "Buenos Aires",
-      provincia: "Buenos Aires",
-    },
-    {
-      codigoPostal: "1125",
-      calle: "Peron",
-      ciudad: "Buenos Aires",
-      provincia: "Buenos Aires",
-    },
-    {
-      codigoPostal: "1047",
-      calle: "Av. del Libertador",
-      ciudad: "Buenos Aires",
-      provincia: "Buenos Aires",
+      "personaId": "2",
+      "calle": "Peron",
+      "altura": "1500",
+      "ciudad": "Buenos Aires",
+      "provincia": "Buenos Aires",
+      "pais": "Argentina",
     },
   ],
-  default: {
+  "listaCP": [
+    {
+      "codigoPostal": "1047",
+      "calle": "Lavalle",
+      "ciudad": "Buenos Aires",
+      "provincia": "Buenos Aires",
+    },
+    {
+      "codigoPostal": "1125",
+      "calle": "Peron",
+      "ciudad": "Buenos Aires",
+      "provincia": "Buenos Aires",
+    },
+    {
+      "codigoPostal": "1047",
+      "calle": "Av. del Libertador",
+      "ciudad": "Buenos Aires",
+      "provincia": "Buenos Aires",
+    },
+  ],
+  "default": {
     "calle": "Calle Falsa",
     "altura": "123",
     "ciudad": "Azul",
